@@ -1,0 +1,69 @@
+Button {
+	margin: 0 5px 0 5px;
+}
+table {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	tr {
+		border: 1px solid #ddd;
+		padding: 5px;
+	}
+	th {
+		color: #fff;
+		background-color: #444;
+		text-transform: uppercase;
+		font-size: 14px;
+		letter-spacing: 1px;
+	}
+}
+table th, table td {
+	padding: 10px;
+}
+.main_top_button_1 {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+.main_top_button_2 {
+	position: absolute;
+	right: 110px;
+	top: 10px;
+}
+.button_main_search {
+	margin: 0 0 0 15px;
+}
+.card_main {
+	padding: 25px;
+	background-color: #FFFFFF;
+}
+.card_info {
+	margin: 15px auto;
+}
+.table {
+	text-align: left;
+}
+svg {
+	font-size: 1.2rem;
+}
+.input_text {
+	margin: 15px;
+}
+.top_main_text {
+	text-align: center;
+	font-size: 2rem;
+}
+.cloudDownload {
+	font-size: 2rem;
+}
+.fa {
+	font-size: 1.3rem;
+	margin: 0 5px 0 0;
+}
+.table-wrap {
+	text-align: center;
+	display: inline-block;
+	background-color: #fff;
+	padding: 2rem 2rem;
+	color: #000;
+}
