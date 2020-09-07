@@ -1,0 +1,21 @@
+{
+  "excludeFiles": [
+    ".git",
+    "yaspeller",
+    "node_modules",
+    "dist"
+  ],
+  "lang": "ru",
+  "fileExtensions": [
+    ".md",
+    ".html",
+    ".js",
+    ".css",
+    ".scss"
+  ],
+  "report": ["console"],
+  "dictionary": ["Газпромбанк", "м²"],
+  "ignoreTags": [],
+  "ignoreText": [],
+  "ignoreUppercase": true
+}
