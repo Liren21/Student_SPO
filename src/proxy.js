@@ -3,7 +3,7 @@ const ParcelProxyServer = require("parcel-proxy-server")
 const server = new ParcelProxyServer({
     entryPoint: "./src/index.html",
     proxies: {
-        "/test/backend/": {
+        "/backend/appconfig.json": {
             target: "http://127.0.0.1:4567/",
         },
     },

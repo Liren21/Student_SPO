@@ -18,7 +18,7 @@ class Tables extends React.Component {
                                     ></i>
                                 </th>
                                 <th scope="col"> ФИО </th>
-                                <th scope="col"> Гуппа </th>
+                                <th scope="col"> Группа </th>
                                 <th scope="col"> Кафедра </th>
                                 <th scope="col"> Скачать PDF </th>
                             </tr>
